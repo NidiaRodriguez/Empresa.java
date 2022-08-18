@@ -1,6 +1,6 @@
 public class Empleado {
 
-    char arrayCaracteres["administrador", "operativo"];
+    String[ ] rol = {"administrador", "operativo"};
 
     String nombreEmpleado;
     String correoEmpleado;
