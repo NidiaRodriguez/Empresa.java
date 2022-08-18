@@ -1,5 +1,9 @@
 public class Empleado {
 
+    /*
+    Comentario de prueba de Daniel Muñoz
+     */
+
     String[ ] rol = {"administrador", "operativo"};
 
     String nombreEmpleado;
