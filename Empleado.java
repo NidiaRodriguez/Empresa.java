@@ -20,7 +20,7 @@ public class Empleado {
 
 
 
-
+    /* comentario prueba commit eduar*/
 
 
     public int getFechaIngreso() {
