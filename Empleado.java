@@ -12,6 +12,15 @@ public class Empleado {
     String rolEmpleado;
     int fechaIngreso;
 
+    int deducciones;
+
+    public int getDeducciones() {
+        return deducciones;
+    }
+
+    public void setDeducciones(int deducciones) {
+        this.deducciones = deducciones;
+    }
 
     public int getFechaIngreso() {
         return fechaIngreso;
