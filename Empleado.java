@@ -22,6 +22,8 @@ public class Empleado {
 
     /* comentario prueba commit eduar*/
 
+    /* comentario de Nidia Rodriguez*/
+
 
     public int getFechaIngreso() {
         return fechaIngreso;
