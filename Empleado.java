@@ -12,8 +12,12 @@ public class Empleado {
     String rolEmpleado;
     int fechaIngreso;
 
-
+    /* prueba
     
+     */
+
+
+
 
     public int getFechaIngreso() {
         return fechaIngreso;
