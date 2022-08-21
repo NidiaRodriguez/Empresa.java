@@ -10,6 +10,15 @@ public class Empleado {
     String correoEmpleado;
     String empresaEmpleado;
     String rolEmpleado;
+    int salarioEmpleado;
+
+    public int getSalarioEmpleado() {
+        return salarioEmpleado;
+    }
+
+    public void setSalarioEmpleado(int salarioEmpleado) {
+        this.salarioEmpleado = salarioEmpleado;
+    }
 
     public Empleado(String nombreEmpleado, String correoEmpleado, String empresaEmpleado, String rolEmpleado) {
         this.nombreEmpleado = nombreEmpleado;
