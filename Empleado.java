@@ -10,6 +10,16 @@ public class Empleado {
     String correoEmpleado;
     String empresaEmpleado;
     String rolEmpleado;
+    int fechaIngreso;
+
+
+    public int getFechaIngreso() {
+        return fechaIngreso;
+    }
+
+    public void setFechaIngreso(int fechaIngreso) {
+        this.fechaIngreso = fechaIngreso;
+    }
 
     public Empleado(String nombreEmpleado, String correoEmpleado, String empresaEmpleado, String rolEmpleado) {
         this.nombreEmpleado = nombreEmpleado;
