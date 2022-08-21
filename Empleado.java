@@ -11,10 +11,14 @@ public class Empleado {
     String empresaEmpleado;
     String rolEmpleado;
     int fechaIngreso;
-
-    /* prueba
-    
+ /*
+    Comentario de prueba de Daniel Muñoz
      */
+ /*
+    Comentario de prueba de Daniel Muñoz
+     */
+
+
 
 
 
